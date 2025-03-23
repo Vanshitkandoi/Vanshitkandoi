@@ -1,8 +1,10 @@
+<!--
 ### Hi there 👋
 
 - 😄 Pronouns: He/Him
 - 🎓 Pursuing B.Tech. in Computer Science Engineering from Vellore Institute of Technology, Vellore.
 - 🔭 I’m currently working on Data Structures and Algorithm, Competitive Programming Skills, etc.
+- -->
 <!--
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
